@@ -1,4 +1,4 @@
-# ANG — Admin Next Generation
+# ANG — AI Network Group
 
 > 대학 행정 조직을 위한 통합 그룹웨어 플랫폼
 
@@ -176,9 +176,3 @@ capstone/
 ├── docker-compose.yml
 └── docker-compose.local.yml
 ```
-
----
-
-## 기여자
-
-영진전문대학교 캡스톤 디자인 프로젝트 팀
